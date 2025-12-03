@@ -1,5 +1,8 @@
 x = "I am A Software Engineer"
-
+a = "Hi"
+b = "Neha"
+c= a + " " + b
+print(c)
 for i in x:
     print(i, end=" ")
 
