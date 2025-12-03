@@ -17,3 +17,5 @@ if "www" not in x:
     print("Yes 'www' is not present")
 else:
     print("No 'www' is present")
+for j in range(5):
+    print("1 To 5 Numbers : ",j)
