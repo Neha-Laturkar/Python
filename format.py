@@ -10,3 +10,4 @@ print(myOrder.format(quantity, items, price))
 
 food_i_love = "The food which i love mostly to eat is \"fish\""
 print(food_i_love)
+print(5|3)
